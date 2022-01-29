@@ -1,1 +1,1 @@
-# Path-Planning-Following
+Contains shortest path algorithm implemented using Djikstra's algorithm.
